@@ -9,7 +9,7 @@
 ## 🌟 Overview
 An end-to-end system that transforms YouTube videos into an interactive knowledge base using cutting-edge AI.
 
-![Pipeline Visualization](https://via.placeholder.com/800x400.png?text=YouTube→Audio→Text→Analysis→QA)
+![Pipeline Visualization](/Users/guranshchugh/Downloads/deepseek_mermaid_20250429_d4f867.png)
 
 ## ✨ Key Features
 | Feature | Description |
@@ -23,7 +23,7 @@ An end-to-end system that transforms YouTube videos into an interactive knowledg
 ## 🛠️ Installation
 ```bash
 # Clone repository
-git clone https://github.com/username/youtube-ai-pipeline.git
+git clone https://github.com/guranshchugh-9/youtube-ai-pipeline.git
 cd youtube-ai-pipeline
 
 # Install dependencies
