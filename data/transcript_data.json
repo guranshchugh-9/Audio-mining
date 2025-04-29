@@ -1,0 +1,496 @@
+{
+    "transcript_id": "california_burrito_story",
+    "summary": "Bert Mueller, a 35-year-old American, founded California Burrito, a successful Mexican-inspired restaurant chain in India.  He overcame challenges like sourcing ingredients and adapting flavors to the local palate by investing in his own avocado farm and building a strong supply chain.  With 103 stores and $23 million in revenue, the company aims to expand to 300 stores by 2030 and potentially go public.  Mueller embraces the challenges and rewards of living and working in India, finding the culture and food incredibly enriching.",
+    "entities": [
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "First India",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "every day",
+            "label": "DATE"
+        },
+        {
+            "text": "Bert Mueller",
+            "label": "PERSON"
+        },
+        {
+            "text": "35 years old",
+            "label": "DATE"
+        },
+        {
+            "text": "Bengaluru",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "December 2011",
+            "label": "DATE"
+        },
+        {
+            "text": "Mexican",
+            "label": "NORP"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Taco Bell",
+            "label": "ORG"
+        },
+        {
+            "text": "13 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Mexican",
+            "label": "NORP"
+        },
+        {
+            "text": "Today",
+            "label": "DATE"
+        },
+        {
+            "text": "California Burrito",
+            "label": "ORG"
+        },
+        {
+            "text": "103",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "103",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "our first financial year",
+            "label": "DATE"
+        },
+        {
+            "text": "about half a million dollars",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Last year",
+            "label": "DATE"
+        },
+        {
+            "text": "23 million dollars",
+            "label": "MONEY"
+        },
+        {
+            "text": "about 85",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "about $1,200",
+            "label": "MONEY"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "the morning",
+            "label": "TIME"
+        },
+        {
+            "text": "Bangalore",
+            "label": "PERSON"
+        },
+        {
+            "text": "Silver Spring",
+            "label": "GPE"
+        },
+        {
+            "text": "Maryland",
+            "label": "GPE"
+        },
+        {
+            "text": "Washington",
+            "label": "GPE"
+        },
+        {
+            "text": "D.C.",
+            "label": "GPE"
+        },
+        {
+            "text": "American",
+            "label": "NORP"
+        },
+        {
+            "text": "the College of William & Mary",
+            "label": "ORG"
+        },
+        {
+            "text": "Virginia",
+            "label": "GPE"
+        },
+        {
+            "text": "Spain",
+            "label": "GPE"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "about 20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "between 150 to $200",
+            "label": "MONEY"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Indian",
+            "label": "NORP"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "another $200",
+            "label": "MONEY"
+        },
+        {
+            "text": "400",
+            "label": "MONEY"
+        },
+        {
+            "text": "a very active month",
+            "label": "DATE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "last year",
+            "label": "DATE"
+        },
+        {
+            "text": "August",
+            "label": "DATE"
+        },
+        {
+            "text": "January",
+            "label": "DATE"
+        },
+        {
+            "text": "13 years",
+            "label": "DATE"
+        },
+        {
+            "text": "last year",
+            "label": "DATE"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mexican",
+            "label": "NORP"
+        },
+        {
+            "text": "One day",
+            "label": "DATE"
+        },
+        {
+            "text": "Mexican",
+            "label": "NORP"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "about $100,000",
+            "label": "MONEY"
+        },
+        {
+            "text": "250,000",
+            "label": "MONEY"
+        },
+        {
+            "text": "Two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "October 2012",
+            "label": "DATE"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Haas",
+            "label": "ORG"
+        },
+        {
+            "text": "California",
+            "label": "GPE"
+        },
+        {
+            "text": "about 500",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Six months",
+            "label": "DATE"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "The past 13 years",
+            "label": "DATE"
+        },
+        {
+            "text": "California",
+            "label": "GPE"
+        },
+        {
+            "text": "Mexico",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "$23 million",
+            "label": "MONEY"
+        },
+        {
+            "text": "about 37%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "about 12%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "approximately 4%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "about 9%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "about 5%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "around 10%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "300",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2030",
+            "label": "DATE"
+        },
+        {
+            "text": "IPO",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        }
+    ],
+    "transcript_chunks": [
+        {
+            "chunk_id": 1,
+            "text": "Coming to India to do business is a big learning curve. \nFirst India is a learning curve, then business in India is a further learning curve. \nFor me, it was all about letting India be India. \nIf you find monotony dull, if you find comfort boring, then India is a perfect place to be. \nNothing is predictable, every day is different"
+        },
+        {
+            "chunk_id": 6,
+            "text": "I took it as part of the course that. . . \nI would just have to adjust to this in order to be successful here. \nMy name is Bert Mueller"
+        },
+        {
+            "chunk_id": 11,
+            "text": "I'm 35 years old. \nI live in Bengaluru, India and I moved here in December 2011.   when I looked at starting a Mexican-inspired restaurant in India, there was just Taco Bell. \nEven now, 13 years in the future, very few people have seen it. \nstarted Mexican restaurants"
+        },
+        {
+            "chunk_id": 16,
+            "text": "Today with California Burrito we have 103 stores. \nThis journey from one to 103 stores has taken us almost 12 plus years. \nWhen we started our first store in our first financial year we did about half a million dollars. \nLast year we did 23 million dollars instead of about 85 rupees to the dollar. \nStarting out in India was very challenging, but I never doubted that I made the right decision"
+        },
+        {
+            "chunk_id": 21,
+            "text": "And I think India's scratched me as a person, and it's really a wonderful place to be. \nI'm very happy living here. \nThe apartment I stay in has three bedrooms, it's a duplex, and it cost me about $1,200 a month. \nAnd a lot of these furnitures also were my grandparents,  it's passed through the family, and now it really feels  my old house. \nin the U"
+        },
+        {
+            "chunk_id": 26,
+            "text": "S.  here in India. \nThis is where I take my coffee in the morning and look out over the small garden I have. \nThis is my small garden, my patio. \nI have a large avocado tree right over here"
+        },
+        {
+            "chunk_id": 31,
+            "text": "Now it's not usually raining in Bangalore right now, this is very unseasonable. \nI grew up in Silver Spring, Maryland right outside Washington, D. C. \nVery traditional suburban middle  class American childhood I would say. \nI went to the College of William & Mary in Virginia"
+        },
+        {
+            "chunk_id": 36,
+            "text": "I had a double major in music and public policy. \nI had the opportunity to study abroad and I saw most people were going to Spain or Italy and I'm a bit of a contrarian and I wanted to go somewhere that was radically different than the U. S. \nI decided that India was the place to be. \nGosh, my first trip to India was just crazy in a sense"
+        },
+        {
+            "chunk_id": 41,
+            "text": "It was  different than what I had grown up with. \nI came out here with about 20 people on the study abroad program. \nSome people got sick. \nSome people, , didn't  the food. \nIt didn't treat their system well"
+        },
+        {
+            "chunk_id": 46,
+            "text": "I was certainly someone who blossomed and was very comfortable navigating India, whereas most other people in the program weren't. \nAs an individual. \nI've always been somebody who's extremely frugal. \nWhat do I spend in terms of groceries?\nI spend anywhere between 150 to $200 a month. \nOnce I came to India and then I went back, I never wanted to have Indian food in the U"
+        },
+        {
+            "chunk_id": 51,
+            "text": "S.  again, because whatever I had in India was  good, everything else paled in comparison. \nOn eating out, it's probably another $200 a month, maybe $400 a month. \nIt's a very active month. \nThe challenges of living here is it's, it's, it can be frustrating to get things done"
+        },
+        {
+            "chunk_id": 56,
+            "text": "Patience is kind of the right strategy. \nUsually, , they say fortune favors the bold. \nI would say India favors the patient. \nThe other thing is, , the knock on wood, I had actually not had any health issues. \n, but last year I got dengue in, , in August and then I got typhoid in January"
+        },
+        {
+            "chunk_id": 61,
+            "text": "I've gone for 13 years with no problems. \nAnd then last year I got two. \n, , there are health issues that can arise that would not happen in the U. S.  and these are not small issues"
+        },
+        {
+            "chunk_id": 66,
+            "text": "All the people in our program were living with families. \nOne of my friends was of Mexican origin. \nOne day I came over to her house and I saw she'd made this food for her family. \nShe was living with it. \nThey were loving the food"
+        },
+        {
+            "chunk_id": 71,
+            "text": "As soon as I saw that, I thought, , that maybe this was something I could do. \nI could bring Mexican-inspired food. \ncuisine to India. \nWhen we were raising money for our first store, we estimated we needed about $100,000 to do it. \nWe raised $250,000,  that was from a friend's family"
+        },
+        {
+            "chunk_id": 76,
+            "text": "Two of my childhood friends decided to join, and we opened in October 2012, our first tour. \nThe store did extremely well. \nAll of a sudden it was clear that we needed to grow our own ingredients. \nin 2018 we ordered Haas avocado trees from California. \nWe imported them and we planted them, about 500 of them"
+        },
+        {
+            "chunk_id": 81,
+            "text": "Six months in some elephants came through the avocado farm and trampled 60 of the trees. \nThe past 13 years we've worked hard to make the food taste  you would get it in California, or taste  you get it in Mexico. \nIf you use the tomatoes from India, they taste very different than the tomatoes. \nas you get in the U. S"
+        },
+        {
+            "chunk_id": 86,
+            "text": "And the onions taste very different, the beans taste different,  it takes a lot of time to develop a supply chain that leads to a food that while is approachable for someone who's from India is also differentiated from a flavor perspective. \n, when we break down that $23 million revenue, our food costs are about 37% food and packing costs. \nloss would be about 12% and approximately 4% on marketing. \nReal estate would be about 9% and then corporate overhead would be about 5% and we have other operating expenses. \nat the bottom line, you could say it's around 10%"
+        },
+        {
+            "chunk_id": 91,
+            "text": "Our plan is to reach 300 stores by 2030, at which point we would probably list the company into an IPO in India and we'll see what happens. \nFor me, living in India feels  I'm a part of this incredible once-in-a-lifetime growth story. \nIndia is on a growth story that other countries have already gone through, and to be able to witness the transformation and change that people's lives are experiencing is really powerful. \nI think it's also just a wonderful place to be from. \nlife experience perspective and I couldn't be happier to be here"
+        },
+        {
+            "chunk_id": 96,
+            "text": ""
+        }
+    ]
+}
