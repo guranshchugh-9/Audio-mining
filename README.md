@@ -34,6 +34,7 @@ python -m spacy download en_core_web_sm
 ```
 
 ## 🏗️ Project Structure
+```bash
 youtube-ai-pipeline/
 ├── notebooks/
 │   ├── 1-transcribe.ipynb
@@ -51,6 +52,7 @@ youtube-ai-pipeline/
 │   └── embeddings/
 ├── .env.example
 └── requirements.txt
+```
 
 ## 🚀 Quick Start
 1. Get your free Groq API key
@@ -69,5 +71,5 @@ jupyter notebook notebooks/1-transcribe.ipynb
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
-<div align="center"> Made with ❤️ by <b>Your Name</b><br> <a href="https://github.com/username/youtube-ai-pipeline/issues">Report Bug</a> · <a href="https://github.com/username/youtube-ai-pipeline/discussions">Request Feature</a> </div> ```
+<div align="center"> Made with ❤️ by <b>GURANSH CHUGH</b><br> <a href="https://github.com/username/youtube-ai-pipeline/issues">Report Bug</a> · <a href="https://github.com/username/youtube-ai-pipeline/discussions">Request Feature</a> </div> ```
 
