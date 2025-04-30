@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 An end-to-end system that transforms YouTube videos into an interactive knowledge base using cutting-edge AI.
-
+![Pipeline Visualization]()
 ![Pipeline Visualization](https://github.com/guranshchugh-9/Audio-mining/blob/main/data/assets/deepseek_mermaid_20250429_d4f867.png?raw=true)
 
 ## ✨ Key Features
